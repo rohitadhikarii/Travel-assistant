@@ -103,13 +103,4 @@ git commit -m "chore: remove Replit artifacts"
 - If Vite dev errors, ensure Node deps installed.
 - If Python venv doesn't activate: check that `.venv` exists in the project root, or recreate it with `python -m venv .venv`
 
-## VSCode refresh
-- Click Explorer refresh icon or use Command Palette → "Developer: Reload Window" to see new files.
 
-## Architecture & Overview
-
-For details on the app architecture, features, and components, see [ARCHITECTURE.md](Travel-assistant/ARCHITECTURE.md).
-
-## Next Steps
-
-If you want a VSCode tasks.json / launch.json to run both Node and Python automatically, I can add it.
